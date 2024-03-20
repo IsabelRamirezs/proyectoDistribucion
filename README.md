@@ -1,0 +1,2 @@
+# proyectoDistribucion
+Estudio computacional
